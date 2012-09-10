@@ -1,0 +1,11 @@
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="cover_height">140dp</dimen>
+    <dimen name="card_height">240dp</dimen>
+    <dimen name="avatar_height">80dp</dimen>
+    <dimen name="avatar_width">80dp</dimen>
+
+</resources>
